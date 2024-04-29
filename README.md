@@ -14,3 +14,5 @@ I get that `Kanji` is messy and the main.py is overpacked for such a simple syst
 
 discord: scatpacl (1205306615570374689)
 --
+
+![Preview](image.png)
