@@ -1,4 +1,4 @@
-# Kanji
+# Kanji (Open-Source)
 ### A very simple PC system made in python used for cleaning a bit of extra space and organization
 
 # Features
