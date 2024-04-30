@@ -93,6 +93,7 @@ def Kanji():
 
   -----------------------------------------------------
           1 = file organizer | 2 = optimize pc
+            !!MUST RUN AS ADMINISTRATOR!!
 
 """
     print(kanji)
@@ -110,4 +111,4 @@ if __name__ == "__main__":
         print(f"\n{red}done!")
 
     else:
-        print(f"{red}invalid choice!")
+        print(f"{red}Invalid choice!")
