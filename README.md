@@ -29,7 +29,7 @@ Kanji is a command-line utility that simplifies the task of organizing files by 
   - Users can customize the folder structure and file type associations to suit their preferences.
 
 - **Temp File and Log Cleanup:**
-  - Kanji can identify and remove temporary files and log files from specified directories.
+  - Kanji can identify and remove temp files and log files from specified directories.
   - Users can configure the tool to exclude certain file types or directories from cleanup.
 
 ## Installation
